@@ -3,10 +3,8 @@ Engineering weeek project for alneelain University.
 
 ## ScreenShots:
 
-<img src="screen1.jpg" width="300">  <img src="screen2.jpg" width="300">  <img src="screen3.jpg" width="300">  <img src="screen4.jpg" width="300">  <img src="screen5.jpg" width="300"> 
-<img src="screen6.jpg" width="300">  <img src="screen7.jpg" width="300">  <img src="screen8.jpg" width="300">  <img src="screen9.jpg" width="300">  <img src="screen5.jpg" width="300"> 
-<img src="screen10.jpg" width="300">
-
+<img src="screen1.png" width="300">  <img src="screen2.png" width="300">  <img src="screen3.png" width="300">  <img src="screen4.png" width="300">  <img src="screen5.png" width="300"> 
+<img src="screen6.png" width="300">  <img src="screen7.png" width="300">  
 ## App Features
 1. Listing projects.
 2. Listing week events.
